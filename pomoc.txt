@@ -1,0 +1,4 @@
+tutaj odpaliæ meteora, w  katalogu socially
+If you notice problems related to these missing modules, consider running:
+
+  meteor npm install --save reflect-metadata zone.js angular2
